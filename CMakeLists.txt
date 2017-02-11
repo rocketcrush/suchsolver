@@ -10,9 +10,13 @@ endif()
 
 
 #Bring the headers
-include_directories(include)
+include_directories(src/include)
 
 file(GLOB_RECURSE SOURCES "src/*.cpp")
 
+
+
+set(EXECUTABLE_OUTPUT_PATH bin/)
+set(LIBRARY_OUTPUT_PATH bin/)
 
 add_executable(${PROJECT_NAME} ${SOURCES})
