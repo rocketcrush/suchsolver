@@ -16,7 +16,7 @@ file(GLOB_RECURSE SOURCES "src/*.cpp")
 
 
 
-set(EXECUTABLE_OUTPUT_PATH bin/)
-set(LIBRARY_OUTPUT_PATH bin/)
+#set(EXECUTABLE_OUTPUT_PATH bin/)
+#set(LIBRARY_OUTPUT_PATH bin/)
 
 add_executable(${PROJECT_NAME} ${SOURCES})
