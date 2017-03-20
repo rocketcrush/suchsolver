@@ -1,0 +1,6 @@
+ R			: 286.9
+ Gamma			: 1.4
+ Pr		  	: 0.72
+ C, courant number	: 1.5
+ Physical Timestep	: 1e-7
+ 

@@ -1,0 +1,22 @@
+######################################################################################################################
+#steady, inviscid, van leer's flux vector splitting, explicit, single stage time stepping - 1
+#steady, inviscid, van leer's flux vector splitting, explicit, runge kutta time stepping (max recommended CFL number 1.5) - 2
+#
+#unsteady, inviscid, van leer's flux vector splitting, explicit, dual time stepping - 3
+#
+#steady, viscous, van leer's flux vector splitting, explicit, single stage time stepping  - 4 
+#steady, viscous, van leer's flux vector splitting, explicit, runge kutta time stepping (max recommended CFL number 1.5) - 5
+#
+#unsteady, viscous, van leer's flux vector splitting, explicit, dual time stepping - 6
+#
+#viscous, central difference for both convective and diffusive fluxes - 
+#inviscid, central difference for convective fluxes - 
+#
+#second order TVD, inviscid, explicit - 
+#second order TVD, viscous, explicit - 
+#AUSM+, inviscid, explicit  - 
+#AUSM+, viscous, explicit - 
+#########################################################################################################################
+#:
+2
+

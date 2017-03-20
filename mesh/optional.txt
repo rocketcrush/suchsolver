@@ -1,0 +1,23 @@
+###	no; 0
+##	yes; 1
+#	density; 2
+##	u velocity; 3
+###	v velocity; 4
+##	w velocity; 5
+#	total energy; 6
+##	temperature; 7
+###	pressure; 8
+##	dynamic viscosity; 9
+#	heat transfer rate; 10
+
+
+
+## Do you have a backup? < named as "backup.txt" > : 0
+#  Write " " values on the wall? < filename will be wall-" ".txt) > : 8
+## Output values will be non-dimensional: 0 
+#  Backup up on every " " iteration: 1000
+## Do you want to write the neighbors of the elements for later use? < named as "neighbors.txt" > : 0
+#  Do you want to read the neighbors of the elements from the file? : 0
+## Output file for Tecplot in .dat format? : 1
+#  Output file for Paraview in .vtk format? : 0
+
