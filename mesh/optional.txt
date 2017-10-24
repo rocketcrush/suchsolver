@@ -13,7 +13,7 @@
 
 
 ## Do you have a backup? < named as "backup.txt" > : 0
-#  Write " " values on the wall? < filename will be wall-" ".txt) > : 8
+#  Write " " values on the wall? < filename will be wall-" ".txt) > : 0
 ## Output values will be non-dimensional: 0 
 #  Backup up on every " " iteration: 1000
 ## Do you want to write the neighbors of the elements for later use? < named as "neighbors.txt" > : 0

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/calculations.cpp.o -c /home/turk/Projects/suchsolver/calculations.cpp",
+  "file": "/home/turk/Projects/suchsolver/calculations.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/boundaryconditions.cpp.o -c /home/turk/Projects/suchsolver/boundaryconditions.cpp",
+  "file": "/home/turk/Projects/suchsolver/boundaryconditions.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/postprocess.cpp.o -c /home/turk/Projects/suchsolver/postprocess.cpp",
+  "file": "/home/turk/Projects/suchsolver/postprocess.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/main.cpp.o -c /home/turk/Projects/suchsolver/main.cpp",
+  "file": "/home/turk/Projects/suchsolver/main.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/initialconditions.cpp.o -c /home/turk/Projects/suchsolver/initialconditions.cpp",
+  "file": "/home/turk/Projects/suchsolver/initialconditions.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/constants.cpp.o -c /home/turk/Projects/suchsolver/constants.cpp",
+  "file": "/home/turk/Projects/suchsolver/constants.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/mesh.cpp.o -c /home/turk/Projects/suchsolver/mesh.cpp",
+  "file": "/home/turk/Projects/suchsolver/mesh.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/fluxes.cpp.o -c /home/turk/Projects/suchsolver/fluxes.cpp",
+  "file": "/home/turk/Projects/suchsolver/fluxes.cpp"
+},
+{
+  "directory": "/home/turk/Projects/suchsolver/build",
+  "command": "/usr/bin/c++    -I/home/turk/Projects/suchsolver/include   -fopenmp -g   -o CMakeFiles/suchsolver.dir/data.cpp.o -c /home/turk/Projects/suchsolver/data.cpp",
+  "file": "/home/turk/Projects/suchsolver/data.cpp"
+}
+]

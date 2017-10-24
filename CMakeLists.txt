@@ -1,5 +1,6 @@
 project(suchsolver)
 cmake_minimum_required(VERSION 2.8)
+aux_source_directory(. SRC_LIST)
 
 
 find_package(OpenMP)
@@ -10,13 +11,10 @@ endif()
 
 
 #Bring the headers
-include_directories(src/include)
+include_directories(include)
 
-file(GLOB_RECURSE SOURCES "src/*.cpp")
+#Can manually add the sources using the set command as follows:
+set(SOURCES mesh.cpp constants.cpp initialconditions.cpp boundaryconditions.cpp fluxes.cpp calculations.cpp postprocess.cpp)
 
 
-
-#set(EXECUTABLE_OUTPUT_PATH bin/)
-#set(LIBRARY_OUTPUT_PATH bin/)
-
-add_executable(${PROJECT_NAME} ${SOURCES})
+add_executable(${PROJECT_NAME} ${SRC_LIST})

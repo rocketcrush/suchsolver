@@ -1,0 +1,3 @@
+/home/turk/Projects/suchsolver/build/CMakeFiles/edit_cache.dir
+/home/turk/Projects/suchsolver/build/CMakeFiles/rebuild_cache.dir
+/home/turk/Projects/suchsolver/build/CMakeFiles/suchsolver.dir
